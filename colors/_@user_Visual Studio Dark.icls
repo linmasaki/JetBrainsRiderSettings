@@ -1,0 +1,40 @@
+<scheme name="_@user_Visual Studio Dark" version="142" parent_scheme="Visual Studio Dark">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2019-04-10T12:41:14</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2018.3.4.0.0</property>
+    <property name="modified">2019-04-12T22:49:18</property>
+    <property name="originalScheme">Visual Studio Dark</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.04" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <colors>
+    <option name="RIGHT_MARGIN_COLOR" value="" />
+  </colors>
+  <attributes>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="dcd081" />
+        <option name="EFFECT_COLOR" value="287bde" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="6593ca" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="9cdcfe" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_RAZOR_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="3f9cca" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
