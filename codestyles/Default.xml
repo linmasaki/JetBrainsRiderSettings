@@ -1,1 +1,6 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <codeStyleSettings language="CoffeeScript">
+    <option name="RIGHT_MARGIN" value="120" />
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
+</code_scheme>
