@@ -31,5 +31,7 @@
     <entry key="ide.debug.in.title" value="true" />
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="rider.enable.designer.winForms" value="false" />
+    <entry key="ea.enable.developers.list" value="false" />
+    <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
   </component>
 </application>
